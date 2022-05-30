@@ -1,0 +1,49 @@
+,support,itemsets_list
+0,0.8839412600663192,high_caloric_food_consumption_1.0
+1,0.8360966366650876,food_between_meals_0.25
+2,0.817621980104216,family_history_with_overweight_1.0
+3,0.7617243012790147,"food_between_meals_0.25, high_caloric_food_consumption_1.0"
+4,0.7484604452865941,P_transportation_1.0
+5,0.7484604452865941,"family_history_with_overweight_1.0, high_caloric_food_consumption_1.0"
+6,0.7323543344386547,"family_history_with_overweight_1.0, food_between_meals_0.25"
+7,0.6774040738986262,"family_history_with_overweight_1.0, food_between_meals_0.25, high_caloric_food_consumption_1.0"
+8,0.6655613453339649,"P_transportation_1.0, high_caloric_food_consumption_1.0"
+9,0.6636665087636191,Alcohol_consumption_0.5
+10,0.6158218853623875,"P_transportation_1.0, food_between_meals_0.25"
+11,0.6077688299384179,"Alcohol_consumption_0.5, high_caloric_food_consumption_1.0"
+12,0.6020843202273803,"P_transportation_1.0, family_history_with_overweight_1.0"
+13,0.5736617716721932,"Alcohol_consumption_0.5, food_between_meals_0.25"
+14,0.5722406442444339,NCP_3_True
+15,0.5641875888204643,"P_transportation_1.0, food_between_meals_0.25, high_caloric_food_consumption_1.0"
+16,0.5547134059687352,"P_transportation_1.0, family_history_with_overweight_1.0, high_caloric_food_consumption_1.0"
+17,0.5381335859782094,"family_history_with_overweight_1.0, Alcohol_consumption_0.5"
+18,0.53671245855045,"Alcohol_consumption_0.5, food_between_meals_0.25, high_caloric_food_consumption_1.0"
+19,0.53671245855045,"P_transportation_1.0, family_history_with_overweight_1.0, food_between_meals_0.25"
+20,0.516816674561819,"P_transportation_1.0, Alcohol_consumption_0.5"
+21,0.5068687825675036,"NCP_3_True, high_caloric_food_consumption_1.0"
+22,0.5063950734249171,"family_history_with_overweight_1.0, Alcohol_consumption_0.5, high_caloric_food_consumption_1.0"
+23,0.5059213642823307,Gender_1.0
+24,0.5040265277119849,"Alcohol_consumption_0.5, family_history_with_overweight_1.0, food_between_meals_0.25"
+25,0.497868308858361,"P_transportation_1.0, family_history_with_overweight_1.0, food_between_meals_0.25, high_caloric_food_consumption_1.0"
+26,0.49407863571766936,Gender_0.0
+27,0.49076267171956417,"food_between_meals_0.25, NCP_3_True"
+28,0.4898152534343913,"family_history_with_overweight_1.0, NCP_3_True"
+29,0.47844623401231645,"P_transportation_1.0, Alcohol_consumption_0.5, high_caloric_food_consumption_1.0"
+30,0.47749881572714353,"Alcohol_consumption_0.5, family_history_with_overweight_1.0, food_between_meals_0.25, high_caloric_food_consumption_1.0"
+31,0.4576030317385126,"Gender_1.0, high_caloric_food_consumption_1.0"
+32,0.45002368545712934,"NCP_3_True, family_history_with_overweight_1.0, high_caloric_food_consumption_1.0"
+33,0.4462340123164377,"NCP_3_True, food_between_meals_0.25, high_caloric_food_consumption_1.0"
+34,0.4419706300331596,"Alcohol_consumption_0.5, P_transportation_1.0, food_between_meals_0.25"
+35,0.4362861203221222,"Gender_1.0, food_between_meals_0.25"
+36,0.4362861203221222,"P_transportation_1.0, NCP_3_True"
+37,0.43486499289436287,"family_history_with_overweight_1.0, food_between_meals_0.25, NCP_3_True"
+38,0.4334438654666035,"Gender_1.0, family_history_with_overweight_1.0"
+39,0.42775935575556606,NCP_3_False
+40,0.42728564661297963,"Alcohol_consumption_0.5, NCP_3_True"
+41,0.4263382283278067,"Gender_0.0, high_caloric_food_consumption_1.0"
+42,0.4178114637612506,"Alcohol_consumption_0.5, P_transportation_1.0, food_between_meals_0.25, high_caloric_food_consumption_1.0"
+43,0.40644244433917576,"P_transportation_1.0, family_history_with_overweight_1.0, Alcohol_consumption_0.5"
+44,0.40596873519658927,"NCP_3_True, family_history_with_overweight_1.0, food_between_meals_0.25, high_caloric_food_consumption_1.0"
+45,0.4045476077688299,"P_transportation_1.0, Gender_0.0"
+46,0.40265277119848414,"Gender_1.0, family_history_with_overweight_1.0, high_caloric_food_consumption_1.0"
+47,0.4007579346281383,"Gender_1.0, food_between_meals_0.25, high_caloric_food_consumption_1.0"
